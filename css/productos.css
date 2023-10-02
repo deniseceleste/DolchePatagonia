@@ -1,0 +1,7 @@
+.gondola {             /*acá no ponemos # porq es para el id , para el class usamos un punto .*/
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 70px;
+    flex-wrap: wrap;     /*es para q no queden todos los productos en el mismo renglón*/
+}
