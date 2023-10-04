@@ -12,7 +12,7 @@
     flex-direction: row;                      /*row es fila*/
     flex-flow: center;
     gap: 22px;                                /*gap es para separar los elementos en este caso los botones del menu*/
-
+    flex-wrap: wrap;  /*esto es de la pagina de los cubos naranjas y violetas y es para hacer q los botones sean responsive, o sea q cuando modifico el tamaño del monitor se pasen para abajo */ 
 }
 
 #main_header a {           /*todos los a que esten adentro de main_header los va a atrapar*/

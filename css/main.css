@@ -1,0 +1,32 @@
+p {
+    font-family: 'Skranji', cursive;
+    color: burlywood;
+}
+
+h1 {
+    font-family: 'Skranji', cursive;
+    font-size: 300%;
+    color: burlywood;
+}
+
+h2 {
+    font-family: 'Skranji', cursive;
+    font-size: 200%;
+    color: burlywood;
+}
+
+li {
+    font-family: 'Skranji', cursive;
+    color: burlywood;
+}
+
+#main_wrapper {
+    max-width: 1044px;
+    width: 100%;
+}
+
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
